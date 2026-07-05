@@ -79,13 +79,11 @@ CipherLock/
 ├── LICENSE
 └── README.md
 
----
 
-
-# 🚀 Installation
+```
+Installation
 
 Clone the repository
-
 ```bash
 git clone https://github.com/Niyidegreat/CipherLock.git
 ```
