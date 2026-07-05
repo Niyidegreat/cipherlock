@@ -85,13 +85,13 @@ Installation
 
 Clone the repository
 ```bash
-git clone https://github.com/Niyidegreat/CipherLock.git
+git clone https://github.com/Niyidegreat/cipherLock.git
 ```
 
 Move into the project directory
 
 ```bash
-cd CipherLock
+cd cipherlock
 ```
 
 Run the application
@@ -119,7 +119,7 @@ Unlike the Caesar Cipher, which shifts every character by the same amount, the V
 7. Enter the encrypted message and the same secret key.
 8. Recover the original message.
 
-Example
+Example Result
 
 | Plain Text  | HELLO WORLD |
 | ----------- | ----------- |
@@ -155,6 +155,7 @@ While the Vigenère Cipher is historically significant, it is no longer consider
 ## Developer
 
 **Adeniyi Ojedele**
+
 AI + Cybersecurity + Software | Building, Breaking & Securing Systems | Product & Graphic Designer
 
 Passionate about building practical cybersecurity projects, documenting cyber, and making cybersecurity concepts simple and accessible.
